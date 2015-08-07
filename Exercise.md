@@ -19,7 +19,7 @@ The programming exercise
 
 Our goal is to implement part of a supermarket checkout system. We won't be concerned with any of the screens the user sees, just the part that calculates the total bill when it sees the list of products the customer is buying.
 
-Our program has to take a sequence of products and calculate a running total of the customers bill. Shops usually use unique identification numbers (called Stock Keeping Units - SKU's) for their products, but to keep this exercise simple we'll just use letters. Because prices change frequently our program needs to read a file of prices every time we start a new transaction.
+Our program has to take a sequence of products and calculate a running total of the customers bill. Shops usually use unique identification numbers (called Stock Keeping Units - SKU's) for their products, but to keep this exercise simple we'll just use letters. Because prices change frequently our program needs to read a file of prices every time we start a new transaction. There is a sample file of prices in the github, or you can generate your own (for this exercise we are not very worried about where they come from. The challenge is just to calculate the total bill correctly).
 
 Supermarket prices are not as simple as they first look. For this exercise we'll only include "multi-buy" prices: sometimes when you buy several of a particular item you get a special price. For example, bananas might be €1.99 per pack, but if buy 2 packs then you get them for a total of €3.00.
 
