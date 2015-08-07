@@ -1,6 +1,22 @@
 
 This exercise is based on the "Supermarket Checkout" kata by Dave Thomas (@PragDave).
 
+Introduction
+==========
+
+For our workshop on Saturday we want to use a small programming exercise to focus some of the later discussion. You can use any programming language you like for this, of course. We will ask you to form up groups, hopefully with some groups using Scratch (or other Block-based languages) and others using text-based languages (Python, or perhaps JavaScript, as you want).
+
+Since the the coding session will be quite short we suggest you think about the problem (below) beforehand. You might want to pay special care to think about how you might _share_ your code. We have made a github repository where you can upload your solutions, could you use that? How might you share some _tests_ so that you can be sure the pieces of code each person is contributing work properly together? These are typical questions that programmers have to have answers to when they work on code together.
+
+Sharing
+======
+
+
+We will ask everyone to upload their solutions (as much as you get done, anyway) to github (don't worry if you don't have any experience with this, it's not essential). We have a public repository at <https://github.com/g-d-strong/ScratchAMS-test.git> that you can use. We suggest making a sub-directory for your team  (we'll give you a team number you can use).
+
+The programming exercise
+=====================
+
 Our goal is to implement part of a supermarket checkout system. We won't be concerned with any of the screens the user sees, just the part that calculates the total bill when it sees the list of products the customer is buying.
 
 Our program has to take a sequence of products and calculate a running total of the customers bill. Shops usually use unique identification numbers (called Stock Keeping Units - SKU's) for their products, but to keep this exercise simple we'll just use letters. Because prices change frequently our program needs to read a file of prices every time we start a new transaction.
