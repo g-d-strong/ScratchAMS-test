@@ -4,9 +4,9 @@ This exercise is based on the "Supermarket Checkout" kata by Dave Thomas (@PragD
 Introduction
 ==========
 
-For our workshop on Saturday we want to use a small programming exercise to focus some of the later discussion. You can use any programming language you like for this, of course. We will ask you to form up groups, hopefully with some groups using Scratch (or other Block-based languages) and others using text-based languages (Python, or perhaps JavaScript, as you want).
+For our workshop on Saturday we want to use a small programming exercise to focus some of the later discussion. You can use any programming language you like for this, of course. When you complete the sign-up form please tell us what language that you would prefer to use (we would like to get a mix of groups, some using Scratch and some using text-based programming languages like Python).
 
-Since the the coding session will be quite short we suggest you think about the problem (below) beforehand. You might want to pay special care to think about how you might _share_ your code. We have made a github repository where you can upload your solutions, could you use that? How might you share some _tests_ so that you can be sure the pieces of code each person is contributing work properly together? These are typical questions that programmers have to have answers to when they work on code together.
+Since the the coding session will be quite short we suggest you think about the problem (below) beforehand. You might want to pay special care to think about how you might _share_ your code. We have made a github repository where you can upload your solutions, could you use that? Might you be able to share some _test_ code so that you can be sure the pieces of the solution that each person is contributing work properly together? These are typical questions that programmers have to have answers to when they work on code together.
 
 Sharing
 ======
